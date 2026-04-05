@@ -1,0 +1,38 @@
+[
+  {
+    "mot": "chat",
+    "definition": "Animal domestique"
+  },
+  {
+    "mot": "arbre",
+    "definition": "Produit des feuilles"
+  },
+  {
+    "mot": "python",
+    "definition": "Langage ou serpent"
+  },
+  {
+    "mot": "route",
+    "definition": "Voie de circulation"
+  },
+  {
+    "mot": "train",
+    "definition": "Moyen de transport sur rails"
+  },
+  {
+    "mot": "etoile",
+    "definition": "Astre lumineux"
+  },
+  {
+    "mot": "radio",
+    "definition": "On l'écoute"
+  },
+  {
+    "mot": "avion",
+    "definition": "Il vole"
+  },
+  {
+    "mot": "voiture",
+    "definition": "Moyen de transport individuel"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "mot": "geolocalisation",
+    "definition": "Procede qui permet de reperer une personne, un objet ou un lieu sur une carte"
+  },
+  {
+    "mot": "latitude",
+    "definition": "Mesure la position nord-sud d'un point par rapport a l'equateur"
+  },
+  {
+    "mot": "longitude",
+    "definition": "Mesure la position est-ouest d'un point par rapport au meridien de Greenwich"
+  },
+  {
+    "mot": "gps",
+    "definition": "Systeme de positionnement qui utilise des satellites pour calculer une position"
+  },
+  {
+    "mot": "trilateration",
+    "definition": "Methode qui determine une position a partir de distances mesurees a plusieurs reperes"
+  },
+  {
+    "mot": "satellite",
+    "definition": "Objet en orbite qui envoie sa position et l'heure du signal"
+  },
+  {
+    "mot": "graphe",
+    "definition": "Structure mathematique utilisee pour representer un reseau et calculer un itineraire"
+  },
+  {
+    "mot": "sommet",
+    "definition": "Point important d'un graphe, comme une ville ou une intersection"
+  },
+  {
+    "mot": "arete",
+    "definition": "Liaison entre deux sommets representant une route ou un chemin"
+  },
+  {
+    "mot": "poids",
+    "definition": "Valeur associee a une arete, par exemple une distance ou une duree"
+  }
+]
